@@ -1,7 +1,10 @@
 Crear archivo- mkdir
 cd- entrar a archivos
+cd ./- regresar o entrar a carpeta padre
 ls- Listar archivos
 rm- Remover archivos
 Touch- Crear archivos .txt
 echo- Escribir dentro de archivos
+cat- ver los contenidos de cualquier archivo
 cp- copiar archivos
+clean- limpiar espacio para trabajar
