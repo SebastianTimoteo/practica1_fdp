@@ -1,0 +1,35 @@
+Problema 1: Dado un precio calcular su descuento considerando que si el precio es mayor de 100 el descuento sera del 10% de otro modo sera del 2%
+Inicio
+Datos de entrada: Leer Precio (P)
+Proceso: Verificar si precio (P) es menor que 100
+Decision: precio (P) es menor a 100
+si: Se le aplicara un descuento de 2% al valor de P
+no: Se aplicara un descuento de 10% al valor de P
+Datos de salida: Imprimir recio con su respectivo descuento
+Fin
+
+Problema 2: Ul algoritmo que lea 2 números y calcule su suma, su resta, su división y su multiplicación.
+Inicio
+Datos de entrada: Leer num1, num2
+Proceso: Sumar num 1 + num2
+         Restar num 1 - num2
+         Multiplcar num1 x num2
+         Dividir num1 / num2
+Datos de salida: Imprimir producto de la suma, resta, multiplicacion y divison de los numeros, num1, num2.
+Fin 
+
+Problema 3: Leer 3 números que van a denostar una fecha de día mes y año y verificar si les una fecha valida
+Inicio
+Datos de Entrada: Leer 3 numeros, (Dia) ,(mes) , (año)
+Proceso: Verificar que sea una fecha valida
+Decision: Dia es menor/ igual a 31
+no: No es una fecha valida
+si:
+Decision: mes sea menor/igual que 12
+no: No es una fecha valida
+si:
+Decision: Mes 2 es menor igual 28 dias
+si: No es una fecha valida
+no:
+Datos de salida: Imprimir que el conjunto de los 3 numeros si es una fecha valida.
+Fin
