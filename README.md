@@ -1,2 +1,2 @@
-# practica1_fdp
-Practica 1 de fundamentos de programacion 
+# Tarea 1_fdp
+Tarea 1 Diagramas de fundamentos de programacion 
